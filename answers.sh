@@ -4,13 +4,13 @@
 cd ORIGIN
 
 # Task 1 
-mv Homework/MA165/HW2.txt HW1.txt
+mv Homework/MA165/HW2.txt Homework/MA165/HW1.txt
 
 # Task 2
 rm Memes/SpongeBob/money.jpeg
 
 # Task 3
-mv fafsa.jpg Memes/SpongeBob
+ mv Memes/"Star Wars"/fafsa.jpg Memes/SpongeBob
 
 # Task 4
 rm -r Homework/CS191
@@ -31,7 +31,7 @@ mv Programs/Count.c Programs/Goodbye.c Programs/C
 mv Programs/Name.py Programs/Space.py Programs/"Python 3"
 
 # Task 10
-touch Essay.txt Homework/POL141
+touch Homework/POL141/Essay.txt
 
 # Task 11
 ls ..
